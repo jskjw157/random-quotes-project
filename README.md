@@ -2,7 +2,7 @@
 
 javascript side project
 
-mainFile : js/app.js
+mainFile : [app.js](https://github.com/jskjw157/random-quotes-project/blob/main/js/app.js)
 
 ## 기능
 
